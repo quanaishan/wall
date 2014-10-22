@@ -1,0 +1,8 @@
+* {margin:0;padding:0;word-wrap:word-break;font-family:verdana,tahoma,arial;font-size:12px;}
+a {color:#0e57a4;text-decoration:none;}
+a:hover {text-decoration:underline;}
+li {list-style:none;}
+img,input,textarea {border:0;}
+
+#wraper {margin:5px auto 0;width:980px;overflow:hidden;}	
+#wraper ul li{float:left;margin-right:10px;}	
